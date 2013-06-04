@@ -18,6 +18,10 @@ The chess game can be started in PvP mode or versus AI (which is called Aida, th
 The program itself is generating the available and prohibits taking an illegal move.
 ![ingame](https://dl.dropboxusercontent.com/u/17963330/kral_images/igra.jpg)
 
+## Why this project exists
+The sole purpose of this project is to show what a dedication and enthusiasm can accomplish within 1 year from the first touch with programming.
+This is far from the best implementation. If I ever want to improve it, it most probably be made as a branch from this project, leaving this one intact. 
+
 ##The Author
 I am Stefan Spasovski, and if you have any suggestions bug reports or you're in need of contact for any reason, feel free to mail at [my mail](mailto:me@stefs.me)
 
