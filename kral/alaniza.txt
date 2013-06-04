@@ -1,0 +1,40 @@
+vrednosta e: -389
+tabela na pozicii shto gi napagja e:
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+tabela na pozicii shto gi cuva e:
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+X X X X X 0 X X 
+0 X X 0 X X 0 0 
+
+tabela na pozicii shto mu gi napagjaat e:
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+
+tabela na pozicii shto protivnikot si gi cuva e:
+0 X X X X X 0 X 
+0 X X 0 X X X X 
+0 0 0 0 0 0 0 0 
+X 0 0 X 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
