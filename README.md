@@ -1,7 +1,7 @@
 ### Welcome to Kral (Крал) the Chess game.
 ![Kral_logo](https://dl.dropboxusercontent.com/u/17963330/kral_images/logo.png)
 ## The story starts like this...
-I was a student at the faculty for Natural Sciences and Mathematics, at the Institute of Informatics. (now transferred to FINKI). I have just finished the first year at the faculty and I really have learned a lot. I was already feeling that i know a lot of how can I make an arbitrary software and even if I didn't knew something I knew how to find what I needed.
+Back in 2008, I was a student at the faculty for Natural Sciences and Mathematics, at the Institute of Informatics. (now transferred to FINKI). I have just finished the first year at the faculty and I really have learned a lot. I was already feeling that i know a lot of how can I make an arbitrary software and even if I didn't knew something I knew how to find what I needed.
 
 Since I was keen on games, i started thinking on how to make an intelligent opponent in a game. Knowing that the Chess problem was already famous and a PC has already beaten the best contemporary world chess champion, I knew that it was a good direction.
 
